@@ -19,7 +19,7 @@ video {
 }
 
 .speed {
-  background: red;
+  background: purple;
   flex: 1;
   display: flex;
   align-items: flex-start;
