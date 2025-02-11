@@ -6,11 +6,11 @@ body {
   min-height: 100vh;
   background: royalblue url("https://unsplash.it/1500/900?image=1021");
   background-size: cover;
-  font-family: sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .wrapper {
-  width: 850px;
+  width: 800px;
   display: flex;
 }
 
@@ -24,7 +24,7 @@ video {
   display: flex;
   align-items: flex-start;
   margin: 10px;
-  border-radius: 50px;
+  border-radius: 60px;
   box-shadow: 0 0 1px 3px rgba(0, 0, 0, 0.1);
   overflow: hidden;
 }
@@ -36,7 +36,7 @@ video {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 2px;
+  padding: 1px;
   color: white;
   height: 16.3%;
 }

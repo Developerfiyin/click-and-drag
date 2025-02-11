@@ -25,6 +25,7 @@ body {
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.05);
   transform: scale(0.98);
   transition: transform 0.5s;
+  border-radius: 15px;
 }
 
 body.fixed-nav .site-wrap {
@@ -49,7 +50,8 @@ h1 {
 }
 
 nav {
-  background: black;
+  background: rgba(247, 184, 247, 0.884);
+
   top: 0;
   width: 100%;
   transition: all 0.5s;
